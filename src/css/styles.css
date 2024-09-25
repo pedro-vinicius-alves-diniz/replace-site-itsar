@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #C00D0E;
+
+    --neutral-color-1: #000;
+    --neutral-color-2: #1F2225;
+    --neutral-color-3: #62707A;
+    -neutral-color-4: #F4F6F7;
+    -neutral-color-5: #FFFFFF;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", system-ui;
+}
